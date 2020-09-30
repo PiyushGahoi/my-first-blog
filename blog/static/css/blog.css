@@ -1,3 +1,6 @@
+*{
+	filter: invert(1) hue-rotate(180deg);
+}
 h1 a {
 	color: #E06CF5;
 	font-family: 'Lobster';
